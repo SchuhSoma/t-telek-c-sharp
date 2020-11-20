@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\bin\Debug\TombWhileCiklus.exe.config
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\bin\Debug\TombWhileCiklus.exe
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\bin\Debug\TombWhileCiklus.pdb
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\obj\Debug\TombWhileCiklus.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\obj\Debug\TombWhileCiklus.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\obj\Debug\TombWhileCiklus.exe
+C:\Users\Soma\Documents\C#2\TombWhileCiklus\TombWhileCiklus\obj\Debug\TombWhileCiklus.pdb

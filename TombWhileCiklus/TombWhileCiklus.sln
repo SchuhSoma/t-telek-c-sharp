@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TombWhileCiklus", "TombWhileCiklus\TombWhileCiklus.csproj", "{DAC8BE57-5542-4976-95B6-64B3F31BB41F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC8BE57-5542-4976-95B6-64B3F31BB41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC8BE57-5542-4976-95B6-64B3F31BB41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC8BE57-5542-4976-95B6-64B3F31BB41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC8BE57-5542-4976-95B6-64B3F31BB41F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2001CA78-849A-43C9-B3EB-C10B08683AFE}
+	EndGlobalSection
+EndGlobal
